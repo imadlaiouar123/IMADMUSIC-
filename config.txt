@@ -1,0 +1,6 @@
+owner=507082463491653635
+prefix=V
+game= Vide-Private
+stayinchannel=true
+songinstatus=false
+token=NTk1NTc2MDk3Njg1MzcyOTM4.XRtubQ.2j1Kwb_-8zXdt2vMW7kok9eZF0I
